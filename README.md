@@ -2,13 +2,16 @@
 ==============================================================================================================================
 
  🌟 About Me
+* Hello, I'm Metis Namaung. I graduated with a Bachelor's degree in Computer Engineering.
+I’m passionate about learning new things and always seeking opportunities to improve my skills.
 * 📍  Based in **Chiang Mai, Thailand**
-* 🌐  Explore my portfolio: [portfolio09-delta.vercel.app](http://portfolio09-delta.vercel.app/)
 
-* 📞 Contact
+  📞 Contact
 * Email: [metis098756820553@gmail.com](mailto:metis098756820553@gmail.com)
 * Phone: 082-2942983
 * Line : https://line.me/ti/p/F7ZLnPrqkJ
+
+  🌐  Explore my portfolio: [portfolio09-delta.vercel.app](http://portfolio09-delta.vercel.app/)
 
 <br>
 <p align="left">
