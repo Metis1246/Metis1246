@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Metis
 ==============================================================================================================================
 
-## 🌟 About Me
+ 🌟 About Me
 * 📍  Based in **Chiang Mai, Thailand**
 * 🌐  Explore my portfolio: [portfolio09-delta.vercel.app](http://portfolio09-delta.vercel.app/)
 * 📧  Contact me: [metis098756820553@gmail.com](mailto:metis098756820553@gmail.com)
