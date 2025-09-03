@@ -4,7 +4,11 @@
  🌟 About Me
 * 📍  Based in **Chiang Mai, Thailand**
 * 🌐  Explore my portfolio: [portfolio09-delta.vercel.app](http://portfolio09-delta.vercel.app/)
-* 📧  Contact me: [metis098756820553@gmail.com](mailto:metis098756820553@gmail.com)
+
+* 📞 Contact
+* Email: [metis098756820553@gmail.com](mailto:metis098756820553@gmail.com)
+* Phone: 082-2942983
+* Line : https://line.me/ti/p/F7ZLnPrqkJ
 
 <br>
 <p align="left">
