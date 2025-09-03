@@ -11,7 +11,7 @@ I’m passionate about learning new things and always seeking opportunities to i
 * 📱 Phone: 082-2942983
 * <span style="vertical-align: middle;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/LINE_logo.svg" alt="Line" width="20"/>
-  </span> Line:https://line.me/ti/p/F7ZLnPrqkJ
+  </span> Line: https://line.me/ti/p/F7ZLnPrqkJ
 
 🌐  Explore my portfolio: [portfolio](http://portfolio09-delta.vercel.app/)
 
